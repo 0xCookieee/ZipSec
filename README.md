@@ -11,6 +11,8 @@
 L'objectif de ce projet est d'automatiser le procéssus de création de Livrable en lui indiquant les fichiers que 
 l'auditeur voudrais archiver et chiffrer afin de pouvoir envoyer les documents que le clients se doit de recevoir.
 
+---
+
 ## Usage
 
 ```
@@ -22,6 +24,8 @@ Utilisation : ./zipsec.sh <fichier1> <fichier2> <fichier3>
 
 exemple : ./zipsec.sh rapport.pdf tableau.xlsx restitution.pptx
 ```
+---
+
 ## Installation du script
 
 ```bash
@@ -30,6 +34,7 @@ exemple : ./zipsec.sh rapport.pdf tableau.xlsx restitution.pptx
     cd tools 
     git clone https://github.com/0xCokieee/ZipSec
 ```
+---
 
 ## Ajouter le script dans votre PATH (optionnel)
 
@@ -40,9 +45,13 @@ echo 'export PATH="$PATH:~/tools/ZipSec/"' >> ~/.bashrc && source ~/.bashrc
 # Pour ZSH:
 echo 'export PATH="$PATH:~/tools/ZipSec/"' >> ~/.zshrc && source ~/.zshrc  
 ```
+---
 
 ## Modification de quelque variable (Nécessaire)
 
 [<img src="./txt_presta.png"/>](./txt_presta.png)
 [<img src="./var_presta.png"/>](./var_presta.png)
+
+---
+
 Autor: 0xCookie
