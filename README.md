@@ -43,7 +43,6 @@ echo 'export PATH="$PATH:~/tools/ZipSec/"' >> ~/.zshrc && source ~/.zshrc
 
 ## Modification de quelque variable (Nécessaire)
 
-![](./txt_presta.png)
-![](./var_presta.png)
-
+[<img src="./var_presta.png"/>](./txt_presta.png)
+[<img src="./var_presta.png"/>](./var_presta.png)
 Autor: 0xCookie
