@@ -230,7 +230,7 @@ done
 
 corps_mail="${corps_mail}
 ${lien_telechargement}
-Pour déchiffrer l'archive, un mot de passe vous sera demandé. Pour le recevoir, merci de m'envoyer un SMS au 07 66 63 04 51.
+Pour déchiffrer l'archive, un mot de passe vous sera demandé. Pour le recevoir, merci de m'envoyer un SMS au [NUMERO DE TÉLÉPHONE].
 Je vous remercie pour votre confiance et votre intérêt durant cet audit.
 Bien cordialement,"
 
